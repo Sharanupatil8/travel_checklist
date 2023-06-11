@@ -2,7 +2,8 @@
 
  # poject demo  : 
 
-![Alt Text](https://raw.githubusercontent.com/Sharanupatil8/travel_checklist/main/public/react%20app%20.png)
+
+![react app ](https://github.com/Sharanupatil8/travel_checklist/assets/93566630/b462f35e-ecd4-4a1d-9404-1e77b193efb4)
 
 
 

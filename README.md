@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# PROJECT LINK : https://travelcheckllist.netlify.app/
+
+ # PROJECT DEMO : 
+
+![Alt text](https://github.com/Sharanupatil8/travel_checklist/blob/main/public/react%20app%20.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

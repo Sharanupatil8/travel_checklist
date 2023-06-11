@@ -1,8 +1,9 @@
 # PROJECT LINK : https://travelcheckllist.netlify.app/
 
- # PROJECT DEMO : 
+ # poject demo  : 
 
-![Alt text](https://github.com/Sharanupatil8/travel_checklist/blob/main/public/react%20app%20.png)
+![Alt Text](https://raw.githubusercontent.com/Sharanupatil8/travel_checklist/main/public/react%20app%20.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
